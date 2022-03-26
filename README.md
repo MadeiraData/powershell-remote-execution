@@ -16,4 +16,4 @@ Here's how this works:
 
 This repository is still unfinished.
 
-Watch this repository to get notified about updates!
+**Watch** this repository to be notified about updates!
