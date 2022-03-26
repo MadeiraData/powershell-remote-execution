@@ -1,4 +1,4 @@
-# Framework for Powershell Remote Execution using Powershell and SQL Server
+# Framework for Remote Execution using Powershell and SQL Server
 
 This is the **Framework for Remote Execution using Powershell and SQL Server**. Or in short: **FREPS**
 
